@@ -1,0 +1,12 @@
+<library path="lib/librviz_homing_plugin">
+  <class name="rviz/SetHomeTool" type="rviz::SetHomeTool" base_class_type="rviz::Tool">
+    <description>
+      Tool to set a home pose.
+    </description>
+  </class>
+  <class name="rviz/GoHomeTool" type="rviz::GoHomeTool" base_class_type="rviz::Tool">
+    <description>
+      Tool to got to a home pose.
+    </description>
+  </class>
+</library>

@@ -1,0 +1,17 @@
+<package>
+  <name>rviz_homing_plugin</name>
+  <version>0.1.0</version>
+  <description>
+    ...
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/rviz_homing_plugin</url>
+  <author>hdeeken</author>
+  <maintainer email="hdeeken@uni-osnabrueck.de">Henning Deeken</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rviz</build_depend>
+  <run_depend>rviz</run_depend>
+  <export>
+    <rviz plugin="${prefix}/plugin_description.xml"/>
+  </export>
+</package>
