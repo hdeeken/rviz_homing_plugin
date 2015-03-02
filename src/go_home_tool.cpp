@@ -35,7 +35,7 @@ GoHomeTool::GoHomeTool()
                                         "The rosparam which will be used to store the home pose.",
                                         getPropertyContainer(), SLOT( updateParam() ), this );
 
-  topic_property_ = new StringProperty( "Topic", "goal",
+  topic_property_ = new StringProperty( "Topic", "move_base_simple/goal",
                                         "The topic on which to publish navigation goals.",
                                         getPropertyContainer(), SLOT( updateTopic() ), this );
 }
