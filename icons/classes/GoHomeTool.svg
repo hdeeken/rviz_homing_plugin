@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="74.073341"
-   height="67.981483"
+   width="33.117035"
+   height="32.66148"
    id="svg3010"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="GoHomeTool.svg">
   <defs
      id="defs3012" />
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-42.249048"
-     inkscape:cy="11.133593"
+     inkscape:zoom="2.8"
+     inkscape:cx="-61.047666"
+     inkscape:cy="22.576677"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
      inkscape:window-width="1600"
      inkscape:window-height="851"
      inkscape:window-x="0"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,22 +55,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-417.24905,-475.51429)">
-    <g
-       transform="matrix(0.74074075,0,0,0.74074075,417.14112,472.41059)"
-       id="g3">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 99.511,38.569 50.993,4.606 c -0.513,-0.359 -1.195,-0.359 -1.708,0 L 0.779,38.569 C 0.456,38.797 0.237,39.142 0.168,39.53 0.1,39.919 0.189,40.319 0.415,40.642 l 6.606,9.434 c 0.291,0.415 0.751,0.635 1.222,0.635 0.294,0 0.592,-0.086 0.852,-0.269 L 50.146,21.694 91.195,50.442 c 0.678,0.472 1.604,0.307 2.074,-0.366 l 6.607,-9.434 c 0.225,-0.323 0.315,-0.724 0.246,-1.112 -0.067,-0.387 -0.287,-0.733 -0.611,-0.961 z"
-         id="path5" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 87.456,53.667 50.999,28.137 c -0.512,-0.358 -1.195,-0.358 -1.707,0 L 12.641,53.803 c -0.398,0.277 -0.635,0.733 -0.635,1.22 v 39.454 c 0,0.82 0.667,1.488 1.49,1.488 h 25.502 c 0.822,0 1.489,-0.668 1.489,-1.488 V 60.095 h 19.32 v 34.382 c 0,0.82 0.666,1.488 1.489,1.488 h 25.309 c 0.823,0 1.486,-0.668 1.486,-1.488 V 54.886 C 88.09,54.4 87.855,53.946 87.456,53.667 z"
-         id="path7" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 74.213,15.768 11.411,7.99 c 0.256,0.178 0.554,0.269 0.854,0.269 0.236,0 0.474,-0.056 0.688,-0.167 0.49,-0.256 0.801,-0.766 0.801,-1.321 V 5.678 C 87.967,4.856 87.3,4.19 86.478,4.19 H 75.065 c -0.822,0 -1.488,0.667 -1.488,1.488 v 8.871 c -0.001,0.484 0.235,0.94 0.636,1.219 z"
-         id="path9" />
-    </g>
+     transform="translate(-436.76196,-495.73646)">
+    <polygon
+       points="52.743,51.8 61.855,51.8 61.855,37.115 65.604,37.115 59.984,31.386 59.984,24.01 55.616,24.01 55.616,26.933 49.998,21.207 34.396,37.115 38.139,37.115 38.139,51.8 47.257,51.8 47.257,40.92 52.743,40.92 "
+       id="polygon6"
+       transform="matrix(0.74074072,0,0,0.74074072,416.28344,485.02757)" />
   </g>
 </svg>
